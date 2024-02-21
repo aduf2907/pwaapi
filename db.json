@@ -1,0 +1,24 @@
+{
+  "products": [
+{"id":1,"name":"Pine snake (unidentified)","category":"Crimson"},
+{"id":2,"name":"Feathertail glider","category":"Mauv"},
+{"id":3,"name":"Rattlesnake, dusky","category":"Fuscia"},
+{"id":4,"name":"Tiger","category":"Red"},
+{"id":5,"name":"Topi","category":"Aquamarine"},
+{"id":6,"name":"Caracal","category":"Teal"},
+{"id":7,"name":"Palm squirrel","category":"Indigo"},
+{"id":8,"name":"Western palm tanager (unidentified)","category":"Green"},
+{"id":9,"name":"Bear, sloth","category":"Mauv"},
+{"id":10,"name":"Deer, roe","category":"Goldenrod"},
+{"id":11,"name":"Albatross, galapagos","category":"Orange"},
+{"id":12,"name":"Bandicoot, long-nosed","category":"Turquoise"},
+{"id":13,"name":"Rhinoceros, black","category":"Goldenrod"},
+{"id":14,"name":"Striped dolphin","category":"Maroon"},
+{"id":15,"name":"Owl, snowy","category":"Red"},
+{"id":16,"name":"European red squirrel","category":"Violet"},
+{"id":17,"name":"Cat, cape wild","category":"Orange"},
+{"id":18,"name":"Little cormorant","category":"Khaki"},
+{"id":19,"name":"Slender-billed cockatoo","category":"Orange"},
+{"id":20,"name":"Ibis, glossy","category":"Purple"}
+  ]
+}
